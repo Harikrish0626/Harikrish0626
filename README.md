@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harikrish0626
 - 👀 I’m interested in Business Analysis
-- 🌱 I’m currently learning Power BI 
+- 🌱 I’m currently learning Power BI and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
